@@ -10,9 +10,7 @@ class Dog
 end
 
 
-Lassie = Dog.new 
-Lassie.name = "Lassie"
-p Lassie.name 
+
 
 
  
